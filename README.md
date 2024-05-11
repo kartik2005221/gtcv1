@@ -10,7 +10,7 @@ We are a team of 10 members passionate about coding and technology. Here's a qui
 - Sam: Security Specialist
 - Mahi: Designer
 - Shasank: Backend Developer
-- Kartik: Frontend Developer
+- AiR: Frontend Developer
 - Ankit: Frontend Developer
 - Diyyansh: Designer
 - Ayush: Designer
