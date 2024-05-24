@@ -35,8 +35,8 @@ The College Predictor helps students find the best colleges for B.Tech CS branch
   - Print button to generate a list of available colleges
   - Privacy-friendly and secure
 
-### 2. Laptop Predictor
-We are currently working on the Laptop Predictor project, where users can determine the best laptop based on their budget and purpose. Stay tuned for updates!
+### 2.Laptop Advisor
+We are currently working on theLaptop Advisor project, where users can determine the best laptop based on their budget and purpose. Stay tuned for updates!
 
 ### 3. Secret Project
 A mystery project is in the works! More details coming soon.
