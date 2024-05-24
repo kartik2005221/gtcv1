@@ -1,10 +1,10 @@
-.card {
+.scard {
 	display: flex;
 	height: 70px;
 	width: 270px;
   }
   
-  .card svg {
+  .scard svg {
 	position: absolute;
 	display: flex;
 	width: 60%;
@@ -17,7 +17,7 @@
 	cursor: pointer;
   }
   
-  .card .social-link1,.card .social-link2,.card .social-link3,.card .social-link4 {
+  .scard .social-link1,.scard .social-link2,.scard .social-link3,.scard .social-link4 {
 	position: relative;
 	display: flex;
 	align-items: center;
@@ -30,11 +30,11 @@
 	border-radius: 50px;
   }
   
-  .card svg {
+  .scard svg {
 	transform: scale(1);
   }
   
-  .card .social-link1:hover {
+  .scard .social-link1:hover {
 	background: #f09433;
 	background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
 	background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
@@ -43,17 +43,17 @@
 	animation: bounce_613 0.4s linear;
   }
   
-  .card .social-link2:hover {
+  .scard .social-link2:hover {
 	background-color: #000000;
 	animation: bounce_613 0.4s linear;
   }
   
-  .card .social-link3:hover {
+  .scard .social-link3:hover {
 	background-color: #28a8e9;
 	animation: bounce_613 0.4s linear;
   }
   
-  .card .social-link4:hover {
+  .scard .social-link4:hover {
 	background-color: #ff0000;
 	animation: bounce_613 0.4s linear;
   }
