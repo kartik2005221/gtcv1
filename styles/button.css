@@ -16,7 +16,7 @@
 	z-index: 1;
   }
   
-  button:hover {
+  .kbutton:hover {
 	animation: ani 8s linear infinite;
 	border: none;
   }
@@ -31,7 +31,7 @@
 	}
   }
   
-  button:before {
+  .kbutton:before {
 	content: "";
 	position: absolute;
 	top: -5px;
@@ -45,11 +45,11 @@
 	transition: 1s;
   }
   
-  button:hover::before {
+  .kbutton:hover::before {
 	filter: blur(20px);
   }
   
-  button:active {
+  .kbutton:active {
 	background: linear-gradient(32deg, #03a9f4, #f441a5, #ffeb3b, #03a9f4);
   }
   
